@@ -3,7 +3,7 @@ __________________________________________________
 #Grupo:
 # Renan (Gestor do time)
 # Rhuan Silva
-# Cassiano Oliveira
+# Cassiano Oliveira de Borba
 # Anderson de Alemeida
 # Henrique 
 # Branchs:
