@@ -2,7 +2,7 @@
 __________________________________________________
 #Grupo:
 # Renan (Gestor do time)
-# Rhuan Silva
+# RHUAN SILVA BARRUFI
 # Cassiano Oliveira
 # Anderson de Alemeida
 # Henrique 
