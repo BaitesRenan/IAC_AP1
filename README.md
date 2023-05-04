@@ -2,8 +2,12 @@
 __________________________________________________
 #Grupo:
 # Renan (Gestor do time)
+<<<<<<< HEAD
 # Rhuan Silva
 # Cassiano Oliveira de Borba
+=======
+# RHUAN SILVA BARRUFI
+# Cassiano Oliveira
 # Anderson de Alemeida
 # Henrique 
 # Branchs:
